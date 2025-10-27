@@ -26,10 +26,8 @@
 2.  **安装本脚本**
     点击下面的链接，Tampermonkey 会自动弹出安装页面。
 
-    -   **[点击此处从 GitHub 安装](https://github.com/Liunian2000/szu-evaluation-helper/raw/main/szu-evaluation-helper.user.js)**
+    -   **[点击此处从greasyfork安装](https://greasyfork.org/zh-CN/scripts/553863-szu%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99%E5%8A%A9%E6%89%8B)**
     
-    *(请确保将上面的仓库名 `szu-evaluation-helper` 和脚本文件名 `szu-evaluation-helper.user.js` 与你实际创建的保持一致)*
-
 ## 📖 使用方法
 
 1.  登录并进入深圳大学教学评教页面 (`https://jxpj.szu.edu.cn/*`)。
