@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SZU一键评教助手
 // @namespace    https://github.com/Liunian2000/szu-evaluation-helper
-// @version      1.0
+// @version      6.0
 // @description  【稳定可靠】在深圳大学教学评教页面提供一个悬浮按钮，一键填写所有选项，二次点击确认提交。删除了不稳定的弹窗处理功能。
 // @author       流年.
 // @match        https://jxpj.szu.edu.cn/*
