@@ -3,9 +3,10 @@
 // @namespace    https://github.com/Liunian2000/szu-evaluation-helper
 // @version      1.0
 // @description  【稳定可靠】在深圳大学教学评教页面提供一个悬浮按钮，一键填写所有选项，二次点击确认提交。删除了不稳定的弹窗处理功能。
-// @author       Your Name & AI Assistant
+// @author       流年.
 // @match        https://jxpj.szu.edu.cn/*
 // @grant        GM_addStyle
+// @license      MIT
 // @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMS4yNSAxNmwtNC4yNS00LjI1IDEuNDE0LTEuNDE0TDEwLjc1IDE0LjE3bDYuMDM2LTYuMDM2IDEuNDE0IDEuNDE0TDEwLjc1IDE4eiIvPjwvc3ZnPg==
 // ==/UserScript==
 
