@@ -1,4 +1,4 @@
-# 深圳大学一键评教助手 | SZU One-Click Evaluation Helper
+# SZU一键评教助手 | SZU One-Click Evaluation Helper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-4.0-blue.svg)](https://github.com/Liunian2000/szu-evaluation-helper)
